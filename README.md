@@ -62,7 +62,7 @@ export FRESHDESK_TOKEN=
 
 ## Running
 
-python3 -m api_transfer --gh_user vanpelt --fd_subdomain newaccount1613193603063
+python3 -m api_transfer --gh_user [githubuserlogin] --fd_subdomain [subdomain]
 
 # How to test
 use pytest from command line
