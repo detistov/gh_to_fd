@@ -1,0 +1,9 @@
+{
+    "mappings" : {
+        "name"              : "name",
+        "email"             : "email",
+        "location"          : "address",
+        "twitter_username"  : "twitter_id"
+    },
+    "ghuser" : ""
+}
